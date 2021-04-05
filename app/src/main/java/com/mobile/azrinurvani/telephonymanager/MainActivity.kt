@@ -86,4 +86,6 @@ class MainActivity : AppCompatActivity() {
 
         edtInfoTelephony.setText(data)
     }
+
+    ///TEST GIT PUSH
 }
